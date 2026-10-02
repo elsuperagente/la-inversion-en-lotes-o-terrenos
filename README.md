@@ -6,3 +6,4 @@ A diferencia de un departamento,
 la tierra es un activo finito que no se deprecia
 físicamente, pero su rentabilidad depende 100%
 de su ubicación, normativas y el "timing" de compra.
+A continuación, te presento el mapa completo
