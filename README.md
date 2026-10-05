@@ -9,3 +9,4 @@ de su ubicación, normativas y el "timing" de compra.
 A continuación, te presento el mapa completo
 para obtener rendimientos, los secretos del
 rubro, los nichos más lucrativos y
+las mejores condiciones para invertir.
