@@ -13,3 +13,4 @@ las mejores condiciones para invertir.
 Cómo obtener rendimientos:
 (Las 3 Estrategias Madre)
 1-Especulación por Plusvalía Pura
+(Comprar y Esperar): 
