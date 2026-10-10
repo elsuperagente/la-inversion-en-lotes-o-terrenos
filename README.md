@@ -14,3 +14,4 @@ Cómo obtener rendimientos:
 (Las 3 Estrategias Madre)
 1-Especulación por Plusvalía Pura
 (Comprar y Esperar): 
+Consiste en adquirir tierra sin mejoras
