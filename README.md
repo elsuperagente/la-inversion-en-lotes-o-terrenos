@@ -15,3 +15,4 @@ Cómo obtener rendimientos:
 1-Especulación por Plusvalía Pura
 (Comprar y Esperar): 
 Consiste en adquirir tierra sin mejoras
+en la dirección hacia donde crece la mancha urbana.
