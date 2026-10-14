@@ -16,3 +16,4 @@ Cómo obtener rendimientos:
 (Comprar y Esperar): 
 Consiste en adquirir tierra sin mejoras
 en la dirección hacia donde crece la mancha urbana.
+El rendimiento se genera cuando
