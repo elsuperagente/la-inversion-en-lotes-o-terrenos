@@ -19,3 +19,4 @@ en la dirección hacia donde crece la mancha urbana.
 El rendimiento se genera cuando
 la infraestructura pública o privada llega
 a la zona, elevando exponencialmente
+ el valor por metro cuadrado.
