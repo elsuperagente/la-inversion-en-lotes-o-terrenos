@@ -21,3 +21,4 @@ la infraestructura pública o privada llega
 a la zona, elevando exponencialmente
 el valor por metro cuadrado.
 Desarrollo y Lotificación (Fraccionamiento):
+
