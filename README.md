@@ -22,3 +22,4 @@ a la zona, elevando exponencialmente
 el valor por metro cuadrado.
 Desarrollo y Lotificación (Fraccionamiento):
 Comprar una macro-parcela (hectáreas)
+a valor rural, tramitar los permisos 
