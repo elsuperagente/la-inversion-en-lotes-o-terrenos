@@ -25,4 +25,5 @@ Comprar una macro-parcela (hectáreas)
 a valor rural, tramitar los permisos 
 de zonificación, dotarla de servicios 
 básicos y subdividirla en lotes más pequeños.
-Vender al menudeo la tierra comprada
+Vender en parte la tierra comprada
+al por mayor multiplica el retorno de inversión.
