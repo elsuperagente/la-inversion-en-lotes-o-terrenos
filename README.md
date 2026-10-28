@@ -28,3 +28,4 @@ básicos y subdividirla en lotes más pequeños.
 Vender en parte la tierra comprada
 al por mayor multiplica el retorno de inversión.
 Aportación a Desarrollos Inmobiliarios: 
+ Ceder la propiedad del terreno a una 
