@@ -30,3 +30,4 @@ al por mayor multiplica el retorno de inversión.
 Aportación a Desarrollos Inmobiliarios: 
 Ceder la propiedad del terreno a una 
 constructora o desarrolladora a cambio 
+de un porcentaje de los departamentos,
