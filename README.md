@@ -31,3 +31,4 @@ Aportación a Desarrollos Inmobiliarios:
 Ceder la propiedad del terreno a una 
 constructora o desarrolladora a cambio 
 de un porcentaje de los departamentos,
+locales o casas construidas en él.
