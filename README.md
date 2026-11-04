@@ -34,3 +34,4 @@ de un porcentaje de los departamentos,
 locales o casas construidas en él.
 Esto te permite saltar de la rentabilidad
 de la tierra a la rentabilidad del desarrollo
+sin poner capital extra para construir.
