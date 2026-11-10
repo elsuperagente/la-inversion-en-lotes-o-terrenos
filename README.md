@@ -39,3 +39,4 @@ En qué debes fijarte (La lista de control obligatoria)
 Invertir en tierra tiene el riesgo de que el 
 el capital quede "atrapado"
 (falta de liquidez) si eliges mal.
+Debes auditar minuciosamente:
