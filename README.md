@@ -41,3 +41,4 @@ el capital quede "atrapado"
 (falta de liquidez) si eliges mal.
 Debes auditar minuciosamente:
 Estatus Legal: El terreno debe contar con
+ Escritura Pública inscrita en el registro
