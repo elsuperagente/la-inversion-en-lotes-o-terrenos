@@ -43,3 +43,4 @@ Debes auditar minuciosamente:
 Estatus Legal: El terreno debe contar con
 Escritura Pública inscrita en el registro
 de la propiedad de tu jurisdicción. 
+Evita "sesiones de derechos" o terrenos 
