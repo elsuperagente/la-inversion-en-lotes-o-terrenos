@@ -45,3 +45,4 @@ Escritura Pública inscrita en el registro
 de la propiedad de tu jurisdicción. 
 Evita "sesiones de derechos" o terrenos 
 sin escritura o documento fehacientemente respaldado
+por escribano público y/o organismos de contralor
