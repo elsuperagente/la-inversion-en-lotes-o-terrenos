@@ -46,3 +46,4 @@ de la propiedad de tu jurisdicción.
 Evita "sesiones de derechos" o terrenos 
 sin escritura o documento fehacientemente respaldado
 por escribano público y/o organismos de contralor
+a través de solicitudes oficiales de averiguación
