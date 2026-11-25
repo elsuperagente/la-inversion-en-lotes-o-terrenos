@@ -49,4 +49,5 @@ por escribano público y/o organismos de contralor
 a través de solicitudes oficiales de averiguación
 de informe de dominio donde constan
 la veracidad y si está libre de 
-gravámenes, deudas y estado de matricula.
+gravámenes, deudas y estado de matricula,
+ya que representan un riesgo muy alto de estafa o litigios eternos.
