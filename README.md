@@ -53,3 +53,4 @@ gravámenes, deudas y estado de matricula,
 ya que representan un riesgo muy alto
 de estafa o litigios eternos.
 Uso de Suelo y Normativa: Solicita en el municipio
+el certificado de habilitación de uso de suelo
